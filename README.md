@@ -1,63 +1,28 @@
-Ganesh Siripuram
+# Hi, I'm Ganesh Siripuram 👋
 
-Master’s in Computer Science | Software Engineer Intern
+**Full Stack Software Engineer**
 
-📍 Chicago, IL, USA  
+## 🚀 About Me
 
-📬 Reach me:
+- Master's in Computer Science (Governors State University) | Expected Graduation: May 2025  
+- 3+ years professional experience building scalable, secure, and cloud-native applications in Banking, Insurance & Healthcare domains  
+- Passionate about modern software development with Java 17, Spring Boot, React, Microservices, and distributed systems  
+- Experienced in AWS, Docker, Kubernetes, CI/CD, Kafka, and event-driven architectures  
+- Strong advocate of clean code, TDD, and scalable design patterns  
+- Solved 200+ LeetCode problems to sharpen problem-solving skills  
 
-- 📧 ganeshsiripuram373@gmail.com
+## 🛠️ Technologies & Tools
 
-- http://ganeshsiripuram.tech
- 
-- [LinkedIn](http://linkedin.com/in/sganesh4)
-  
-- [LeetCode](https://leetcode.com/SiripuramGanesh7/)
+- **Languages:** Java, Python, C#, JavaScript, TypeScript, SQL, C/C++  
+- **Frameworks:** Spring Boot, React, React Native, .NET MVC, Flask  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins  
+- **Databases & Messaging:** PostgreSQL, Oracle, Redis, RabbitMQ, Kafka  
+- **Other:** Microservices, JWT/OAuth2 Authentication, Elasticsearch, Swagger/OpenAPI  
 
+## 📫 Connect with Me
 
-👨‍💻 About Me
+- [LinkedIn](https://linkedin.com/in/sganesh4)  
+- [GitHub](https://github.com/siripuramGanesh)  
+- 📧 ganeshsiripuram373@gmail.com  
 
-I’m a Software Engineer Intern with hands-on experience in full-stack development and cloud technologies. I hold a Master’s in Computer Science from Governors State University, and my skills span across Java, React, Spring Boot, and cloud infrastructure. My passion lies in solving complex problems through distributed systems and microservices architecture.
-
-🚀 Skills & Technologies
-
-Languages: Java, C#, Python, SQL, JavaScript, TypeScript, C/C++
-
-Frameworks: Spring Boot, .NET MVC, React, Flask, React Native
-
-Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD
-
-Data Science & ML: ML Models, EDA, Web Scraping, Power BI
-
-Tools: Git, IntelliJ, Visual Studio, VS Code, Jupyter Notebook
-
-💡 Projects
-
-Salon Booking Microservices App: Built a scalable microservices-based system using Spring Boot, React, RabbitMQ, and Docker.
-
-E-Donor - Blood Donation Platform: Developed a real-time donor-recipient matching system with Elasticsearch optimization.
-
-Distributed Backend System: Improved response times by 50% using Spring Boot, Kafka, and Redis.
-
-Medicine Reminder App: Developed a cross-platform mobile app with React Native and push notifications.
-
-And More........
-
-🏆 Certifications
-
-AWS Certified Solutions Architect – Associate
-
-Deep Learning for Computer Vision (NPTEL)
-
-Spring Boot Masterclass (Udemy)
-
-Microservices with Spring Cloud, k8s & Docker (Udemy)
-
-🎯 Coding Achievements
-
-Solved 200+ LeetCode problems
-
-Contributed to open-source projects like Spring Boot
-
-🔧 Let’s Connect
-Feel free to explore my repositories and reach out for collaborations, open-source contributions, or any opportunities related to full-stack development, microservices, or cloud computing.
+Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration or opportunities.
