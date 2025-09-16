@@ -1,11 +1,8 @@
 # Hi, I'm Ganesh Siripuram 👋
 
-**Full Stack Software Engineer**
-
-
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/sganesh4)  
+- [LinkedIn](https://linkedin.com/in/sganesh777)  
 - [GitHub](https://github.com/siripuramGanesh)  
 - 📧 ganeshsiripuram7311@gmail.com  
 
